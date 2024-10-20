@@ -1,3 +1,4 @@
+![ss1](https://github.com/user-attachments/assets/451371c5-7590-404b-9085-27722c82f0c8)
 # Healthcare Chatbot using Generative AI and NLP
 
 This project is a healthcare chatbot designed to assist with symptom analysis by leveraging Generative AI and Natural Language Processing (NLP). The chatbot references a comprehensive medical dataset of 150 diseases, offering insightful medical advice for early symptom detection.
